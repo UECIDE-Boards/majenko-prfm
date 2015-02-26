@@ -1,0 +1,7 @@
+Board_Data.c boards/MajenkoTechnologies/majenko-prfm
+Board_Defs.h boards/MajenkoTechnologies/majenko-prfm
+board.txt boards/MajenkoTechnologies/majenko-prfm
+bootloader575ec.hex boards/MajenkoTechnologies/majenko-prfm
+icons boards/MajenkoTechnologies/majenko-prfm
+prfm-575h.ld boards/MajenkoTechnologies/majenko-prfm
+tools boards/MajenkoTechnologies/majenko-prfm
